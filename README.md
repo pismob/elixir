@@ -1,5 +1,11 @@
 ![Elixir](https://github.com/elixir-lang/elixir-lang.github.com/raw/master/images/logo/logo.png)
 =========
+
+Welcome to try elixir with docker images:  
+[![Docker Stars](https://img.shields.io/docker/stars/_/elixir.svg?style=flat-square)](https://hub.docker.com/_/elixir/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/_/elixir.svg?style=flat-square)](https://hub.docker.com/_/elixir/)
+[![Image Layers](https://badge.imagelayers.io/elixir:latest.svg)](https://imagelayers.io/?images=_/elixir:latest 'Show Image Layers at imagelayers.io')
+
 [![Build Status](https://secure.travis-ci.org/elixir-lang/elixir.svg?branch=master 
 "Build Status")](https://travis-ci.org/elixir-lang/elixir)
 
